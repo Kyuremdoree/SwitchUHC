@@ -1,0 +1,12 @@
+switchuhc\switchuhc\Task\GameTask.class
+switchuhc\switchuhc\classes\Switch.class
+switchuhc\switchuhc\Task\GameTask$1.class
+switchuhc\switchuhc\Commands\FriendlyFire.class
+switchuhc\switchuhc\Task\Invulnerable.class
+switchuhc\switchuhc\Task\Revive.class
+switchuhc\switchuhc\Listeners\TeamListerner.class
+switchuhc\switchuhc\Task\StartTask.class
+switchuhc\switchuhc\Task\TpTask.class
+switchuhc\switchuhc\SwitchUHC.class
+switchuhc\switchuhc\enums\GameStade.class
+switchuhc\switchuhc\Listeners\GameListener.class

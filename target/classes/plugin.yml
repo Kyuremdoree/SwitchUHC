@@ -1,0 +1,13 @@
+name: SwitchUHC
+version: 1.0
+author: Kyuremdoree && Axelus
+main: switchuhc.switchuhc.SwitchUHC
+api-version: 1.8.8
+
+commands:
+  friendlyfire:
+    description: active / ou non les dégat subit par les alliés
+    usage: /friendlyfire /friendlyfire on /friendlyfire off
+  invDepart:
+    description: ouvre un inventaire pour y mettre des truc dans l'in de depart au démarrage
+    usage: /invDepart
